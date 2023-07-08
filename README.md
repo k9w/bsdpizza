@@ -5,7 +5,7 @@
 This repository is one source for <https://bsd.pizza>. You can get
 more details about what we're all about on the website itself, or read
 the file
-[index.html](https://github.com/k9w/bsd.pizza/blob/main/index.html) in
+[index.html](https://github.com/k9w/bsdpizza/blob/main/index.html) in
 this repo.
 
 ## Contributing
