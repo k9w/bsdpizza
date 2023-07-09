@@ -10,7 +10,7 @@ this repo.
 
 ## Contributing
 
-If you would like to contribute to this website, fork this repo,
+If you would like to contribute to this website, clone this repo,
 commit your changes, and submit a pull request.
 
 ## License
